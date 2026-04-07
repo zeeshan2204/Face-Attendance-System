@@ -1,10 +1,10 @@
-# 🎥 Face Attendance System  
+#  Face Attendance System  
 
 AI-powered Face Recognition based Attendance System with Live Dashboard  
 
 ---
 
-## 🚀 Features
+##  Features
 
 - Real-time face detection & recognition  
 - Automatic attendance marking  
@@ -19,7 +19,7 @@ AI-powered Face Recognition based Attendance System with Live Dashboard
 
 | Category | Technology |
 |----------|-----------|
-| Language | Python 🐍 |
+| Language | Python |
 | Computer Vision | OpenCV |
 | Face Recognition | face_recognition |
 | Backend | Flask |
